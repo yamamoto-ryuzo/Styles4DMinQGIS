@@ -8,5 +8,5 @@ DM　とは，日本における公共測量の計画機関において作成さ
 DM表示用プロジェクトデータとDMサンプルは同じ階層に保存してください。
 
 ※表示サンプル<br>
-![スクリーンショット 2021-08-01 171919](https://user-images.githubusercontent.com/86514652/127764442-8ef61570-b05c-40f6-8e5e-1f5d9dbed825.png)
+![image](https://user-images.githubusercontent.com/86514652/127771092-81e5aa2e-9722-435c-b9cf-940ab1cfc380.png)
 
