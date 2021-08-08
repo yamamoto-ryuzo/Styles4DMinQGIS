@@ -11,11 +11,13 @@ DMディレクトリはQGISの　apps\qgis-ltr\svg　へセットしてくださ
 ※表示サンプル 2021-08-08バージョン<BR>
 ![image](https://user-images.githubusercontent.com/86514652/128618182-dbb06100-a64c-4e6b-befd-84733ab71ead.png)<BR>
 
-License<BR>
- CC0 - パブリックドメイン
+ライセンス<BR>
+　CC0 - パブリックドメイン<BR>
+　DMフォルダー内のシンボルについても同等の表記のあるものを集めていますが，念のため出典を表示<BR>
+　　・OpenStreetMap<BR>
+ 　　　　https://github.com/yamamoto-ryuzo/Styles4DMinQGIS?fbclid=IwAR0uuwGeXQWMSpMT5B5ChjtYVowJAn6rmhMeW0id2qM11QfpimapsP8Mmx4<BR>
+　　・Digital北海道研究会<BR>
+ 　　　　https://dghok.com/download<BR>
 
-DMフォルダー内のシンボルについても同等の表記のあるものを集めていますが，念のため出典を表示<BR>
-  ・OpenStreetMap<BR>
-     https://github.com/yamamoto-ryuzo/Styles4DMinQGIS?fbclid=IwAR0uuwGeXQWMSpMT5B5ChjtYVowJAn6rmhMeW0id2qM11QfpimapsP8Mmx4<BR>
-  ・Digital北海道研究会<BR>
-     https://dghok.com/download<BR>
+サンプルサイト<BR>
+　https://soja.gis-cdn.net/<BR>
