@@ -16,7 +16,7 @@ DMディレクトリはQGISの　apps\qgis-ltr\svg　へセットしてくださ
 　CC0 - パブリックドメイン<BR>
 　DMフォルダー内のシンボルについても同等の表記のあるものを集めていますが，念のため出典を表示<BR>
 　　・OpenStreetMap<BR>
- 　　　　https://github.com/yamamoto-ryuzo/Styles4DMinQGIS?fbclid=IwAR0uuwGeXQWMSpMT5B5ChjtYVowJAn6rmhMeW0id2qM11QfpimapsP8Mmx4<BR>
+ 　　　　https://github.com/openstreetmap/map-icons?fbclid=IwAR0_dCnTRLiHCGsWV5dncDKwCSlWnM2-0kuv31tfwq01HlEsenFCkFzjV18<BR>
 　　・Digital北海道研究会<BR>
  　　　　https://dghok.com/download<BR>
 
