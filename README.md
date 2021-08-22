@@ -7,7 +7,7 @@ DM　とは，日本における公共測量の計画機関において作成さ
 
 ※利用方法<BR>
 DM.qgs（DMスタイルを設定したプロジェクトファイル）とDMサンプルは同じ階層に保存してください。<BR>
-DMディレクトリはQGISの　apps\qgis-ltr\svg　へセットしてください。<BR>
+WEB公開（Lizmap)において，簡単に公開できるようDMディレクトリを修正。QGISの標準的なシンボルフォルダに設置せず，このまま利用してください。<BR>
 
 　表示サンプル 1/2500都市部　2021-08-08バージョン<BR>
 ![image](https://user-images.githubusercontent.com/86514652/128618182-dbb06100-a64c-4e6b-befd-84733ab71ead.png)<BR>
