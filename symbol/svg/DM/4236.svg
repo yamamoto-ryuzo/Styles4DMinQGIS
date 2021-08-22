@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="default"
+   width="300"
+   height="460"
+   version="1.1"
+   id="svg101"
+   sodipodi:docname="4236.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs105" />
+  <sodipodi:namedview
+     id="namedview103"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8086957"
+     inkscape:cx="150.10817"
+     inkscape:cy="229.72356"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg101" />
+  <title
+     id="title93">日本の地図記号 - 電波塔</title>
+  <circle
+     fill="white"
+     stroke="black"
+     stroke-width="15px"
+     cx="125"
+     cy="350"
+     r="80"
+     id="circle97" />
+  <path
+     fill="black"
+     d="M 117.5 275    L 117.5 27     166.666667 97     208.333333 27     250 97 285 27     298 33 250 125     208.333333 55     166.666667 125     132.5 75     132.5 275 Z"
+     id="path99" />
+</svg>

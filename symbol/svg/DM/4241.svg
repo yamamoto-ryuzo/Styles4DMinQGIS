@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="default"
+   width="250"
+   height="250"
+   version="1.1"
+   id="svg145"
+   sodipodi:docname="4241.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs149" />
+  <sodipodi:namedview
+     id="namedview147"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.328"
+     inkscape:cx="124.84976"
+     inkscape:cy="125.15024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg145" />
+  <title
+     id="title129">日本の地図記号 - 灯台</title>
+  <line
+     stroke="black"
+     stroke-width="15px"
+     x1="125"
+     y1="5"
+     x2="125"
+     y2="245"
+     id="line133" />
+  <line
+     stroke="black"
+     stroke-width="15px"
+     x1="5"
+     y1="125"
+     x2="245"
+     y2="125"
+     id="line135" />
+  <line
+     stroke="black"
+     stroke-width="15px"
+     x1="40"
+     y1="40"
+     x2="210"
+     y2="210"
+     id="line137" />
+  <line
+     stroke="black"
+     stroke-width="15px"
+     x1="40"
+     y1="210"
+     x2="210"
+     y2="40"
+     id="line139" />
+  <circle
+     fill="white"
+     stroke="black"
+     stroke-width="15px"
+     cx="125"
+     cy="125"
+     r="70"
+     id="circle141" />
+  <circle
+     fill="black"
+     cx="125"
+     cy="125"
+     r="28"
+     id="circle143" />
+</svg>

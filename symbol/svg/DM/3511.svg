@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="default"
+   width="250"
+   height="250"
+   version="1.1"
+   id="svg243"
+   sodipodi:docname="3511.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs247" />
+  <sodipodi:namedview
+     id="namedview245"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.328"
+     inkscape:cx="124.84976"
+     inkscape:cy="125.15024"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg243" />
+  <title
+     id="title231">日本の地図記号 - 気象台</title>
+  <line
+     stroke="black"
+     stroke-width="20px"
+     x1="125"
+     y1="50"
+     x2="125"
+     y2="220"
+     id="line235" />
+  <line
+     stroke="black"
+     stroke-width="20px"
+     x1="30"
+     y1="50"
+     x2="220"
+     y2="50"
+     id="line237" />
+  <line
+     stroke="black"
+     stroke-width="20px"
+     x1="30"
+     y1="30"
+     x2="30"
+     y2="70"
+     id="line239" />
+  <line
+     stroke="black"
+     stroke-width="20px"
+     x1="220"
+     y1="30"
+     x2="220"
+     y2="70"
+     id="line241" />
+</svg>

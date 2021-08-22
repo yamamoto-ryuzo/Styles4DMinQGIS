@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg644"
+   x="0px"
+   y="0px"
+   width="579.997px"
+   height="579.997px"
+   viewBox="0 0 579.997 579.997"
+   enable-background="new 0 0 579.997 579.997"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="07_hospital.svg"><metadata
+   id="metadata2992"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2990" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="715"
+   id="namedview2988"
+   showgrid="false"
+   inkscape:zoom="0.34441154"
+   inkscape:cx="100.55875"
+   inkscape:cy="144.2032"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg644" />
+
+<path
+   style="fill:#000000;fill-opacity:1;stroke:none"
+   inkscape:transform-center-x="-0.45938566"
+   inkscape:transform-center-y="28.289704"
+   d="M 556.28447,349.54589 292.62468,559.20377 26.91049,352.60617 30.25571,15.263948 553.31107,13.372585 z"
+   id="path2994"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccc" /><path
+   style="fill:#ffffff;fill-opacity:1;stroke:none"
+   inkscape:transform-center-x="-0.38892112"
+   inkscape:transform-center-y="23.0191"
+   d="M 515.68573,336.76046 292.46714,507.35736 67.50923,339.25059 70.34135,54.757979 513.1684,53.218995 z"
+   id="path2994-1"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccccc" /><rect
+   style="fill:#000000;fill-opacity:1;stroke:none"
+   id="rect2983-7"
+   width="394.8764"
+   height="63.877071"
+   x="76.849976"
+   y="-323.53601"
+   transform="matrix(0,1,-1,0,0,0)" /><rect
+   style="fill:#000000;fill-opacity:1;stroke:none"
+   id="rect2983-7-0"
+   width="394.8764"
+   height="63.877071"
+   x="-489.03568"
+   y="-286.22672"
+   transform="scale(-1,-1)" /></svg>
