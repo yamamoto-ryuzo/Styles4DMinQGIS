@@ -10,7 +10,7 @@ DM.qgs（DMスタイルを設定したプロジェクトファイル）とDMサ�
 WEB公開（Lizmap)において，簡単に公開できるようDMディレクトリを修正。QGISの標準的なシンボルフォルダに設置せず，このまま利用してください。<BR>
 
 サンプルサイト<BR>
-　https://lizmap.yamakun.net/<BR>
+　https://lizmap.yamakun.net/index.php/view/map/?repository=lizmapcloud&project=Styles4DMinQGIS/<BR>
 
 ※ライセンス<BR>
 　CC0 - パブリックドメイン<BR>
