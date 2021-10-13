@@ -9,14 +9,8 @@ DM　とは，日本における公共測量の計画機関において作成さ
 DM.qgs（DMスタイルを設定したプロジェクトファイル）とDMサンプルは同じ階層に保存してください。<BR>
 WEB公開（Lizmap)において，簡単に公開できるようDMディレクトリを修正。QGISの標準的なシンボルフォルダに設置せず，このまま利用してください。<BR>
 
-　表示サンプル 1/2500都市部　2021-08-08バージョン<BR>
-![image](https://user-images.githubusercontent.com/86514652/128618182-dbb06100-a64c-4e6b-befd-84733ab71ead.png)<BR>
-
- 表示サンプル　1/50000山間部　2021-08-14バージョン<BR>
-![image](https://user-images.githubusercontent.com/86514652/129420321-a4a41366-c113-4283-b7da-23d009944efe.png)<BR>
-
- サンプルサイト<BR>
-　https://soja.gis-cdn.net/<BR>
+サンプルサイト<BR>
+　https://lizmap.yamakun.net/<BR>
 
 ※ライセンス<BR>
 　CC0 - パブリックドメイン<BR>
