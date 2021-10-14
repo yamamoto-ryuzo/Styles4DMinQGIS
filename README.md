@@ -4,6 +4,10 @@ Sorry, this is for Japanese only.<BR>
 DM　とは，日本における公共測量の計画機関において作成された数値地形図データのこと！<BR>
 この　DM　が日本独自すぎて，QGISの世界でとても扱いにくいフォーマットとなってしまっている。<BR>
 そこで，QGISでも扱いやすいように，概ね再現できるように，QGISのスタイルを整備している（途中）。<BR>
+ 
+※DMの変換に利用したアプリ<BR>
+ 公共測量ビューアコンバータ（PSEA）<BR>
+ https://psgsv2.gsi.go.jp/koukyou/public/sien/pindex.html<BR>
 
 ※利用方法<BR>
 DM.qgs（DMスタイルを設定したプロジェクトファイル）とDMサンプルは同じ階層に保存してください。<BR>
