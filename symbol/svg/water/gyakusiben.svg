@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.29067750396722 -2.56532213674617 0.27423658158749 0.364034767650653" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>gyakusiben</title>
+<style type="text/css"><![CDATA[.C1{fill:#ffffff;stroke:none}]]></style>
+<path class="C1" d="M0.3107 -2.2213L0.5449 -2.2213L0.5449 -2.5450L0.3107 -2.5450L0.3107 -2.2213z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+<style type="text/css"><![CDATA[.C2{fill:#ff0000;stroke:none}]]></style>
+<path class="C2" d="M0.3307 -2.2213L0.3310 -2.4835L0.5287 -2.2096L0.5313 -2.2067L0.5343 -2.2043L0.5378 -2.2026L0.5415 -2.2016L0.5454 -2.2013L0.5492 -2.2018L0.5529 -2.2029L0.5563 -2.2048L0.5592 -2.2073L0.5616 -2.2103L0.5634 -2.2137L0.5645 -2.2174L0.5649 -2.2213L0.5649 -2.5450L0.5645 -2.5489L0.5634 -2.5527L0.5615 -2.5562L0.5591 -2.5592L0.5560 -2.5617L0.5526 -2.5635L0.5488 -2.5647L0.5449 -2.5650L0.5410 -2.5647L0.5373 -2.5635L0.5338 -2.5617L0.5308 -2.5592L0.5283 -2.5562L0.5264 -2.5527L0.5253 -2.5489L0.5249 -2.5450L0.5249 -2.2832L0.3273 -2.5570L0.3247 -2.5599L0.3217 -2.5623L0.3182 -2.5640L0.3145 -2.5650L0.3106 -2.5653L0.3068 -2.5649L0.3031 -2.5637L0.2997 -2.5618L0.2968 -2.5593L0.2944 -2.5563L0.2926 -2.5529L0.2914 -2.5492L0.2911 -2.5454L0.2907 -2.2213L0.2911 -2.2174L0.2922 -2.2137L0.2940 -2.2102L0.2965 -2.2072L0.2995 -2.2047L0.3030 -2.2028L0.3068 -2.2017L0.3107 -2.2013L0.3146 -2.2017L0.3183 -2.2028L0.3218 -2.2046L0.3248 -2.2071L0.3273 -2.2102L0.3291 -2.2136L0.3303 -2.2174L0.3307 -2.2213z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</svg>

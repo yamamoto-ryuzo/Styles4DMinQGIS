@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.310349151920888 -2.57796093835077 0.341351079169167 0.387131783086634" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>haisui_kataoti</title>
+<style type="text/css"><![CDATA[.C1{fill:#ffffff;stroke:#ff0000;stroke-width:0.000750000000000;stroke-antialiasing:true;stroke-linecap:square;stroke-linejoin:miter}]]></style>
+<path class="C1" d="M0.3314 -2.5580L0.3303 -2.2108L0.6318 -2.3841L0.3314 -2.5580z" />
+<defs>
+<g id="L1">
+<style type="text/css"><![CDATA[.C2{fill:#ff0000;stroke:none}]]></style>
+<path class="C2" d="M0.3114 -2.5580L0.3103 -2.2109L0.3107 -2.2071L0.3118 -2.2034L0.3135 -2.2000L0.3158 -2.1970L0.3187 -2.1945L0.3220 -2.1926L0.3256 -2.1914L0.3294 -2.1908L0.3332 -2.1910L0.3369 -2.1919L0.3403 -2.1935L0.6418 -2.3668L0.6449 -2.3690L0.6475 -2.3717L0.6495 -2.3749L0.6510 -2.3784L0.6517 -2.3822L0.6517 -2.3860L0.6510 -2.3897L0.6496 -2.3932L0.6475 -2.3964L0.6449 -2.3992L0.6418 -2.4014L0.3414 -2.5753L0.3380 -2.5769L0.3343 -2.5778L0.3305 -2.5780L0.3267 -2.5774L0.3231 -2.5762L0.3198 -2.5743L0.3170 -2.5718L0.3146 -2.5688L0.3129 -2.5655L0.3118 -2.5618L0.3114 -2.5580zM0.3513 -2.5234L0.5918 -2.3842L0.3505 -2.2454L0.3513 -2.5234z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</defs>
+</g>
+<use xlink:href="#L1"/>
+</svg>

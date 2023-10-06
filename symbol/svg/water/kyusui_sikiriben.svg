@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.254222513035813 -2.5317964680452 0.350574779010023 0.294508335689806" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>kyusui_sikiriben</title>
+<style type="text/css"><![CDATA[.C1{fill:#ffffff;stroke:#ff0080;stroke-width:0.000500000000000;stroke-antialiasing:true;stroke-linecap:round;stroke-linejoin:round}]]></style>
+<path class="C1" d="M0.4280 -2.3826L0.2742 -2.5118L0.2742 -2.2572L0.4280 -2.3826z" />
+<path class="C1" d="M0.4280 -2.3826L0.5848 -2.2572L0.5848 -2.5118L0.4280 -2.3826z" />
+<defs>
+<g id="L1">
+<style type="text/css"><![CDATA[.C2{fill:#ff0080;stroke:none}]]></style>
+<path class="C2" d="M0.5721 -2.5273L0.4281 -2.4086L0.2871 -2.5271L0.2840 -2.5293L0.2805 -2.5308L0.2768 -2.5317L0.2731 -2.5318L0.2693 -2.5312L0.2658 -2.5300L0.2625 -2.5280L0.2597 -2.5256L0.2574 -2.5226L0.2556 -2.5192L0.2546 -2.5156L0.2542 -2.5118L0.2542 -2.2572L0.2546 -2.2532L0.2559 -2.2493L0.2579 -2.2457L0.2606 -2.2426L0.2638 -2.2402L0.2675 -2.2384L0.2715 -2.2374L0.2756 -2.2373L0.2796 -2.2380L0.2834 -2.2395L0.2869 -2.2417L0.4281 -2.3569L0.5723 -2.2416L0.5757 -2.2394L0.5795 -2.2380L0.5836 -2.2373L0.5876 -2.2375L0.5916 -2.2384L0.5953 -2.2402L0.5985 -2.2427L0.6012 -2.2458L0.6032 -2.2493L0.6044 -2.2532L0.6048 -2.2572L0.6048 -2.5118L0.6044 -2.5156L0.6034 -2.5192L0.6017 -2.5225L0.5994 -2.5255L0.5966 -2.5280L0.5933 -2.5299L0.5898 -2.5312L0.5861 -2.5318L0.5823 -2.5317L0.5786 -2.5309L0.5752 -2.5294L0.5721 -2.5273zM0.5648 -2.4694L0.5648 -2.2988L0.4597 -2.3829L0.5648 -2.4694zM0.2942 -2.2994L0.2942 -2.4689L0.3966 -2.3829L0.2942 -2.2994z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</defs>
+</g>
+<use xlink:href="#L1"/>
+</svg>

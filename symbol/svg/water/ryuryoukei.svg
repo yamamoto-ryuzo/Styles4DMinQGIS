@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.292158083425332 -2.56608607233796 0.279554955424275 0.359921672710421" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>ryuryoukei</title>
+<style type="text/css"><![CDATA[.C1{fill:none;stroke:#ff0000;stroke-width:0.001000000000000;stroke-antialiasing:true;stroke-linecap:round;stroke-linejoin:round}]]></style>
+<path class="C1" d="M0.3122 -2.2262L0.3122 -2.5461L0.4319 -2.2262L0.5517 -2.5461L0.5517 -2.2262" />
+<style type="text/css"><![CDATA[.C2{fill:#ffffff;stroke:none}]]></style>
+<path class="C2" d="M0.3122 -2.2262L0.5517 -2.2262L0.5517 -2.5461L0.3122 -2.5461L0.3122 -2.2262z" />
+<defs>
+<g id="L1">
+<style type="text/css"><![CDATA[.C3{fill:#ff0000;stroke:none}]]></style>
+<path class="C3" d="M0.5717 -2.5461L0.5713 -2.5500L0.5702 -2.5538L0.5683 -2.5573L0.5657 -2.5604L0.5626 -2.5629L0.5591 -2.5647L0.5553 -2.5658L0.5513 -2.5661L0.5474 -2.5656L0.5436 -2.5644L0.5402 -2.5624L0.5372 -2.5598L0.5347 -2.5567L0.5330 -2.5531L0.4319 -2.2832L0.3309 -2.5531L0.3291 -2.5567L0.3267 -2.5598L0.3237 -2.5624L0.3203 -2.5644L0.3165 -2.5656L0.3126 -2.5661L0.3086 -2.5658L0.3048 -2.5647L0.3013 -2.5629L0.2982 -2.5604L0.2956 -2.5573L0.2937 -2.5538L0.2926 -2.5500L0.2922 -2.5461L0.2922 -2.2262L0.2925 -2.2223L0.2937 -2.2185L0.2955 -2.2151L0.2980 -2.2120L0.3010 -2.2095L0.3045 -2.2077L0.3083 -2.2065L0.3122 -2.2062L0.3161 -2.2065L0.3198 -2.2077L0.3233 -2.2095L0.3263 -2.2120L0.3288 -2.2151L0.3306 -2.2185L0.3318 -2.2223L0.3322 -2.2262L0.3322 -2.4356L0.4132 -2.2192L0.4150 -2.2155L0.4175 -2.2124L0.4205 -2.2097L0.4241 -2.2078L0.4279 -2.2066L0.4319 -2.2062L0.4359 -2.2066L0.4398 -2.2078L0.4433 -2.2097L0.4464 -2.2124L0.4489 -2.2155L0.4507 -2.2192L0.5317 -2.4356L0.5317 -2.2262L0.5321 -2.2223L0.5332 -2.2185L0.5351 -2.2151L0.5376 -2.2120L0.5406 -2.2095L0.5441 -2.2077L0.5478 -2.2065L0.5517 -2.2062L0.5556 -2.2065L0.5594 -2.2077L0.5628 -2.2095L0.5659 -2.2120L0.5683 -2.2151L0.5702 -2.2185L0.5713 -2.2223L0.5717 -2.2262L0.5717 -2.5461z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</defs>
+</g>
+<use xlink:href="#L1"/>
+</svg>

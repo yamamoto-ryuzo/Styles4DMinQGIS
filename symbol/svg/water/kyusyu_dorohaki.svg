@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.33034906067008 -2.55798206450903 0.301439018800118 0.347177658680053" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>kyusyu_dorohaki</title>
+<style type="text/css"><![CDATA[.C1{fill:#ff0080;stroke:none}]]></style>
+<path class="C1" d="M0.3314 -2.5580L0.3303 -2.2108L0.6318 -2.3841L0.3314 -2.5580z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</svg>

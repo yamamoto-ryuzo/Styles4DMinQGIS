@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.310904242173001 -2.57798206450903 0.23720343420138 0.387079021572265" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>kyusui_sikirisen</title>
+<style type="text/css"><![CDATA[.C1{fill:none;stroke:#ff0080;stroke-width:0.001000000000000;stroke-antialiasing:true;stroke-linecap:round;stroke-linejoin:round}]]></style>
+<path class="C1" d="M0.5281 -2.5580L0.5281 -2.2109" />
+<path class="C1" d="M0.3309 -2.5577L0.3314 -2.2109" />
+<defs>
+<g id="L1">
+<style type="text/css"><![CDATA[.C2{fill:#ff0080;stroke:none}]]></style>
+<path class="C2" d="M0.3109 -2.5577L0.3114 -2.2109L0.3118 -2.2070L0.3129 -2.2032L0.3148 -2.1998L0.3173 -2.1967L0.3203 -2.1943L0.3238 -2.1924L0.3275 -2.1913L0.3314 -2.1909L0.3353 -2.1913L0.3391 -2.1924L0.3425 -2.1943L0.3456 -2.1968L0.3480 -2.1998L0.3499 -2.2033L0.3510 -2.2070L0.3514 -2.2109L0.3509 -2.5577L0.3505 -2.5616L0.3494 -2.5654L0.3475 -2.5688L0.3450 -2.5719L0.3420 -2.5744L0.3385 -2.5762L0.3348 -2.5773L0.3309 -2.5777L0.3270 -2.5773L0.3232 -2.5762L0.3198 -2.5743L0.3167 -2.5718L0.3143 -2.5688L0.3124 -2.5653L0.3113 -2.5616L0.3109 -2.5577z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+<path class="C2" d="M0.5481 -2.2109L0.5481 -2.5580L0.5477 -2.5619L0.5466 -2.5656L0.5447 -2.5691L0.5422 -2.5721L0.5392 -2.5746L0.5358 -2.5765L0.5320 -2.5776L0.5281 -2.5780L0.5242 -2.5776L0.5205 -2.5765L0.5170 -2.5746L0.5140 -2.5721L0.5115 -2.5691L0.5096 -2.5656L0.5085 -2.5619L0.5081 -2.5580L0.5081 -2.2109L0.5085 -2.2070L0.5096 -2.2032L0.5115 -2.1998L0.5140 -2.1968L0.5170 -2.1943L0.5205 -2.1924L0.5242 -2.1913L0.5281 -2.1909L0.5320 -2.1913L0.5358 -2.1924L0.5392 -2.1943L0.5422 -2.1968L0.5447 -2.1998L0.5466 -2.2032L0.5477 -2.2070L0.5481 -2.2109z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+<style type="text/css"><![CDATA[.C3{fill:#ffffff;stroke:none}]]></style>
+</defs>
+<path class="C3" d="M0.5281 -2.5577L0.3309 -2.5577L0.3309 -2.2109L0.5281 -2.2109L0.5281 -2.5577z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+<use xlink:href="#L1"/>
+</svg>

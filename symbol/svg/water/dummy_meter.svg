@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0.194503134520297 -2.57426711620752 0.382223901057648 0.387133352044185" enable-background="new" shape-rendering="auto">
+<defs>
+<filter id="T">
+  <feBlend mode="normal" in2="BackgroundImage" in="SourceGraphic"/>
+</filter>
+</defs>
+<g>
+<title>dummy_meter</title>
+<style type="text/css"><![CDATA[.C1{fill:#ffffff;stroke:#ff0080;stroke-width:0.000500000000000;stroke-antialiasing:true;stroke-linecap:round;stroke-linejoin:round}]]></style>
+<path class="C1" d="M0.5565 -2.2071L0.5567 -2.5543L0.2557 -2.3803L0.5565 -2.2071z"/>
+<style type="text/css"><![CDATA[.C2{fill:none;stroke:#ff0080;stroke-width:0.000500000000000;stroke-antialiasing:true;stroke-linecap:round;stroke-linejoin:round}]]></style>
+<path class="C2" d="M0.2552 -2.5557L0.2549 -2.2085"/>
+<path class="C2" d="M0.2047 -2.5533L0.2045 -2.2061"/>
+<defs>
+<g id="L1">
+<style type="text/css"><![CDATA[.C3{fill:#ff0080;stroke:none}]]></style>
+<path class="C3" d="M0.1947 -2.5533L0.1945 -2.2061L0.1947 -2.2042L0.1953 -2.2023L0.1962 -2.2006L0.1974 -2.1990L0.1989 -2.1978L0.2007 -2.1969L0.2025 -2.1963L0.2045 -2.1961L0.2064 -2.1963L0.2083 -2.1969L0.2101 -2.1978L0.2116 -2.1990L0.2128 -2.2005L0.2137 -2.2023L0.2143 -2.2041L0.2145 -2.2061L0.2147 -2.5533L0.2146 -2.5552L0.2140 -2.5571L0.2131 -2.5588L0.2118 -2.5603L0.2103 -2.5616L0.2086 -2.5625L0.2067 -2.5631L0.2047 -2.5633L0.2028 -2.5631L0.2009 -2.5625L0.1992 -2.5616L0.1977 -2.5604L0.1964 -2.5588L0.1955 -2.5571L0.1949 -2.5552L0.1947 -2.5533z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+<path class="C3" d="M0.2649 -2.2085L0.2652 -2.5557L0.2650 -2.5576L0.2644 -2.5595L0.2635 -2.5612L0.2623 -2.5628L0.2607 -2.5640L0.2590 -2.5649L0.2571 -2.5655L0.2552 -2.5657L0.2532 -2.5655L0.2514 -2.5649L0.2496 -2.5640L0.2481 -2.5628L0.2469 -2.5613L0.2459 -2.5595L0.2454 -2.5577L0.2452 -2.5557L0.2449 -2.2085L0.2451 -2.2066L0.2457 -2.2047L0.2466 -2.2030L0.2479 -2.2014L0.2494 -2.2002L0.2511 -2.1993L0.2530 -2.1987L0.2549 -2.1985L0.2569 -2.1987L0.2588 -2.1993L0.2605 -2.2002L0.2620 -2.2014L0.2633 -2.2030L0.2642 -2.2047L0.2648 -2.2066L0.2649 -2.2085z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+<g id="L2">
+<path class="C3" d="M0.5765 -2.2071L0.5767 -2.5543L0.5764 -2.5581L0.5753 -2.5617L0.5736 -2.5651L0.5712 -2.5681L0.5683 -2.5706L0.5650 -2.5725L0.5614 -2.5737L0.5577 -2.5743L0.5539 -2.5741L0.5502 -2.5732L0.5467 -2.5716L0.2457 -2.3976L0.2426 -2.3954L0.2400 -2.3926L0.2379 -2.3894L0.2365 -2.3859L0.2358 -2.3822L0.2358 -2.3784L0.2365 -2.3746L0.2379 -2.3711L0.2400 -2.3679L0.2426 -2.3652L0.2457 -2.3630L0.5465 -2.1898L0.5500 -2.1882L0.5537 -2.1873L0.5575 -2.1871L0.5612 -2.1877L0.5648 -2.1889L0.5681 -2.1908L0.5710 -2.1933L0.5733 -2.1963L0.5751 -2.1997L0.5761 -2.2033L0.5765 -2.2071zM0.5365 -2.2417L0.2957 -2.3803L0.5367 -2.5196L0.5365 -2.2417z" fill="param(fill)" fill-opacity="param(fill-opacity)" stroke="param(outline)" stroke-opacity="param(outline-opacity)" stroke-width="param(outline-width)"/>
+</g>
+</defs>
+</g>
+<use xlink:href="#L1"/>
+<use xlink:href="#L2"/>
+</svg>
